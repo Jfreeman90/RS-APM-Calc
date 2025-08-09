@@ -568,7 +568,7 @@ class GlobalClickKeyCounter:
         self.scroll_label.config(text="0")
         self.action_label.config(text="Last action: None")
 
-        # Ypdate timer ui
+        # Update timer ui
         self.timer_label.config(text="Time: 00:00")
         # Update the total actions counter ui
         self.total_actions_label.config(text=str("Total Actions: 0"))
